@@ -7,6 +7,7 @@
 #"
 
 cd Server
+mkdir plugins
 
 echo "===== Installing Main Jar ====="
 wget https://api.purpurmc.org/v2/purpur/1.18.1/latest/download
